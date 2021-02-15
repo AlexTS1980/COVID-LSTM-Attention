@@ -43,4 +43,11 @@
 <img src="https://github.com/AlexTS1980/COVID-LSTM-Attention/blob/master/Images/im3.png" width="800" height="450" align="center"/>
 </p>
 
-
+To train the model, simply run 
+```
+python train.py
+```
+To evaluate the provided model, 
+'''
+python eval.py
+'''
