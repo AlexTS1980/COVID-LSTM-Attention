@@ -1,6 +1,6 @@
 # One Shot Model Using LSTM with Attention 
 
-# Segmentation Results (CNCB-NCOV Segmentation Dataset, (http://ncov-ai.big.ac.cn)
+### Segmentation Results (CNCB-NCOV Segmentation Dataset, (http://ncov-ai.big.ac.cn)
 
 |  \# Affinities	| AP@0.5 	| AP@0.75 	| mAP@[0.5:0.95:0.05] 	| 
 |:-:	|:-:	|:-:	|:-:|
@@ -8,7 +8,7 @@
 | One Shot + LSTM | **0.612** 	| **0.485** 	| **0.466** 	|
 | Mask R-CNN |  0.502| 0.419|0.387|
 
-# Classification Results (CNCB-NCOV Classification Dataset, (http://ncov-ai.big.ac.cn)
+### Classification Results (CNCB-NCOV Classification Dataset, (http://ncov-ai.big.ac.cn)
 
 |  \# Model	| COVID-19 	| CP 	| Normal 	| F1 score|
 |:-:	|:-:	|:-:	|:-:|:-:|
@@ -18,7 +18,7 @@
 | ResNeXt50 | 91.94% |88.45%| 84.30%|87.31%|
 | DenseNet121 | 92.64% |96.16%| 98.98%|96.15%|
 
-# Classification Results (iCTCF-CT Classification Dataset, (http://ictcf.biocuckoo.cn)
+### Classification Results (iCTCF-CT Classification Dataset, (http://ictcf.biocuckoo.cn)
 
 |  \# Model	| COVID-19 	| Normal 	| F1 score|
 |:-:	|:-:	|:-:	|:-:|
