@@ -47,7 +47,8 @@ To train the model, simply run
 ```
 python train.py
 ```
-To evaluate the provided model, 
-'''
+on the CNCB-NCOV data. You need both segmentation and classification splits, see https://github.com/AlexTS1980/COVID-Single-Shot-Model for details. 
+To evaluate the provided model, change the path in `eval.py` before running: 
+```
 python eval.py
-'''
+```
