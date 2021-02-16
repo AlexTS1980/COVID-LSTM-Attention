@@ -6,23 +6,24 @@
 
 |  \# Affinities	| AP@0.5 	| AP@0.75 	| mAP@[0.5:0.95:0.05] 	| 
 |:-:	|:-:	|:-:	|:-:|
-|  One Shot +LSTM+Attention	| **0.605** 	| **0.497** 	| **0.470** 	| 
+|  **One Shot +LSTM+Attention**	| **0.605** 	| **0.497** 	| **0.470** 	| 
 | Mask R-CNN |  0.502| 0.419|0.387|
 
 ### Classification Results (CNCB-NCOV Classification Dataset, (http://ncov-ai.big.ac.cn)
 
 |  \# Model	| COVID-19 	| CP 	| Normal 	| F1 score|
 |:-:	|:-:	|:-:	|:-:|:-:|
-| One Shot + LSTM+Attention	|**95.74%**	|**98.13%**|**99.27%** 	|**98.15%**|
+| **One Shot + LSTM+Attention**	|**95.74%**	|**98.13%**|**99.27%** 	|**98.15%**|
 | ResNet50 | 91.04% |97.64%| 98.97%|96.88%|
 | ResNeXt50 | 91.94% |88.45%| 84.30%|87.31%|
+| ResNeXt101 | 91.58% |92.13%| 94.02%|92.86%|
 | DenseNet121 | 92.64% |96.16%| 98.98%|96.15%|
 
 ### Classification Results (iCTCF-CT Classification Dataset, (http://ictcf.biocuckoo.cn)
 
 |  \# Model	| COVID-19 	| Normal 	| F1 score|
 |:-:	|:-:	|:-:	|:-:|
-|  One Shot + LSTM + Attention	| **97.73%**	|**98.68%**	|**98.41%** |
+|**One Shot + LSTM + Attention**	| **97.73%**	|**98.68%**	|**98.41%** |
 |VGG16(Ning et al, 2020) | 97.00%	|85.47%|-|
 
 ### The Model:
