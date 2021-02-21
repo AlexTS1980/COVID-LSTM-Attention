@@ -1,3 +1,14 @@
+Preprint on medRxiv:
+```
+@article {Ter-Sarkisov2021.02.16.21251754,
+	author = {Ter-Sarkisov, Aram},
+	title = {One Shot Model For COVID-19 Classification and Lesions Segmentation In Chest CT Scans Using LSTM With Attention Mechanism},
+	year = {2021},
+	doi = {10.1101/2021.02.16.21251754},
+	publisher = {Cold Spring Harbor Laboratory Press},
+	journal = {medRxiv}
+}
+```
 # One Shot Model Using LSTM with Attention 
 
 ## Segmentation And Classification Results From The Paper:
