@@ -1,3 +1,5 @@
+## Update from 05/12/21: To appear in IEEE Intelligent Systems
+
 Preprint on medRxiv:
 ```
 @article {Ter-Sarkisov2021.02.16.21251754,
