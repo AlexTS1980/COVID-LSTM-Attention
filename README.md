@@ -1,6 +1,8 @@
-## Update from 05/12/21: To appear in IEEE Intelligent Systems
+### Update from 14/09/22: Published in IEEE Intelligence Systems, May-June 2022, volume 37, pages 54-64
 
-Preprint on medRxiv:
+### Update from 05/12/21: To appear in IEEE Intelligent Systems
+
+Citation of preprint on medRxiv:
 ```
 @article {Ter-Sarkisov2021.02.16.21251754,
 	author = {Ter-Sarkisov, Aram},
@@ -10,6 +12,18 @@ Preprint on medRxiv:
 	publisher = {Cold Spring Harbor Laboratory Press},
 	journal = {medRxiv}
 }
+```
+Citation of journal publication:
+```
+@article{9669072,
+  author={Ter-Sarkisov, Aram},
+  journal={IEEE Intelligent Systems}, 
+  title={One Shot Model for COVID-19 Classification and Lesions Segmentation in Chest CT Scans Using Long Short-Term Memory Network With Attention Mechanism}, 
+  year={2022},
+  volume={37},
+  number={3},
+  pages={54-64},
+  doi={10.1109/MIS.2021.3135474}}
 ```
 # One Shot Model Using LSTM with Attention 
 
